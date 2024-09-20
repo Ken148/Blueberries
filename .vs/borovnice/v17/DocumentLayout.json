@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ken\\source\\repos\\borovnice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|c:\\users\\ken\\source\\repos\\borovnice\\borovnice\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF7C8EB-31D4-452F-97DD-A3DB0EA57DA6}|borovnice\\borovnice.csproj|solutionrelative:borovnice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form4.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form4.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form4.cs",
+              "RelativeToolTip": "borovnice\\Form4.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:57:06.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form4.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form4.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form4.cs [Design]",
+              "RelativeToolTip": "borovnice\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:57:03.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form3.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form3.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form3.cs",
+              "RelativeToolTip": "borovnice\\Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:57:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form3.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form3.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form3.cs [Design]",
+              "RelativeToolTip": "borovnice\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:57:00.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Program.cs",
+              "RelativeDocumentMoniker": "borovnice\\Program.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Program.cs",
+              "RelativeToolTip": "borovnice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:43:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form2.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form2.cs",
+              "RelativeToolTip": "borovnice\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:41:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form2.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form2.cs [Design]",
+              "RelativeToolTip": "borovnice\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:40:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form1.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form1.cs*",
+              "RelativeToolTip": "borovnice\\Form1.cs*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwE8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:58:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form1.cs",
+              "RelativeDocumentMoniker": "borovnice\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ken\\source\\repos\\borovnice\\borovnice\\Form1.cs [Design]*",
+              "RelativeToolTip": "borovnice\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:17:23.209Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1529,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
