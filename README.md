@@ -1,6 +1,10 @@
 ## Blueberry Farming Tracker App
 
+![Posnetek zaslona 2024-09-21 002529](https://github.com/user-attachments/assets/9b0ac229-8df9-4430-92ba-de56846e31dc)
 
+![Posnetek zaslona 2024-09-21 002544](https://github.com/user-attachments/assets/3559a947-37cc-43d5-a5ac-b79caa58c21a)
+
+![Posnetek zaslona 2024-09-21 002558](https://github.com/user-attachments/assets/0f51930e-c9d9-4fed-b933-beab81926ea0)
 
 This application helps farmers input and track statistics related to blueberry farming, including costs, revenue, and profit over time. Easily manage your farm's financials and optimize your production!
 
